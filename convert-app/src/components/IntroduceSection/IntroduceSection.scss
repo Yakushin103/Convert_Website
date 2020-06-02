@@ -1,0 +1,30 @@
+.introduce-section {
+    background: #F6F6FA;
+    padding: 60px 104px 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.introduce-section-item {
+    width: 50%;
+    display: flex;
+}
+
+.introduce-item-content {
+    position: relative;
+}
+
+.introduce-item-content p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 160%;
+/* or 35px */
+
+
+/* gray light */
+
+    color: #4F5258;
+}
